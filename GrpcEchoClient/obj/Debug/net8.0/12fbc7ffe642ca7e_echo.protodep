@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/Echo.cs \
+obj\Debug\net8.0\Protos/EchoGrpc.cs: Protos/echo.proto
