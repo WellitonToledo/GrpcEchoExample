@@ -300,19 +300,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wat\\.nuget\\packages\\": {}
+    "/Users/wellitontoledo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wat\\RiderProjects\\GrpcEchoExample\\GrpcEchoClient\\GrpcEchoClient.csproj",
+      "projectUniqueName": "/Users/wellitontoledo/RiderProjects/GrpcEchoExample/GrpcEchoClient/GrpcEchoClient.csproj",
       "projectName": "GrpcEchoClient",
-      "projectPath": "C:\\Users\\wat\\RiderProjects\\GrpcEchoExample\\GrpcEchoClient\\GrpcEchoClient.csproj",
-      "packagesPath": "C:\\Users\\wat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wat\\RiderProjects\\GrpcEchoExample\\GrpcEchoClient\\obj\\",
+      "projectPath": "/Users/wellitontoledo/RiderProjects/GrpcEchoExample/GrpcEchoClient/GrpcEchoClient.csproj",
+      "packagesPath": "/Users/wellitontoledo/.nuget/packages/",
+      "outputPath": "/Users/wellitontoledo/RiderProjects/GrpcEchoExample/GrpcEchoClient/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/wellitontoledo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -334,7 +334,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       }
     },
     "frameworks": {
@@ -372,7 +372,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\wat\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/wellitontoledo/.dotnet/sdk/9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

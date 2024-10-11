@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pBCMwZ+Hnf0=",
+  "dgSpecHash": "s7Ir6Tra/nA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wat\\RiderProjects\\GrpcEchoExample\\GrpcEchoClient\\GrpcEchoClient.csproj",
+  "projectFilePath": "/Users/wellitontoledo/RiderProjects/GrpcEchoExample/GrpcEchoClient/GrpcEchoClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wat\\.nuget\\packages\\google.protobuf\\3.28.2\\google.protobuf.3.28.2.nupkg.sha512",
-    "C:\\Users\\wat\\.nuget\\packages\\grpc.core.api\\2.66.0\\grpc.core.api.2.66.0.nupkg.sha512",
-    "C:\\Users\\wat\\.nuget\\packages\\grpc.net.client\\2.66.0\\grpc.net.client.2.66.0.nupkg.sha512",
-    "C:\\Users\\wat\\.nuget\\packages\\grpc.net.common\\2.66.0\\grpc.net.common.2.66.0.nupkg.sha512",
-    "C:\\Users\\wat\\.nuget\\packages\\grpc.tools\\2.67.0\\grpc.tools.2.67.0.nupkg.sha512",
-    "C:\\Users\\wat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+    "/Users/wellitontoledo/.nuget/packages/google.protobuf/3.28.2/google.protobuf.3.28.2.nupkg.sha512",
+    "/Users/wellitontoledo/.nuget/packages/grpc.core.api/2.66.0/grpc.core.api.2.66.0.nupkg.sha512",
+    "/Users/wellitontoledo/.nuget/packages/grpc.net.client/2.66.0/grpc.net.client.2.66.0.nupkg.sha512",
+    "/Users/wellitontoledo/.nuget/packages/grpc.net.common/2.66.0/grpc.net.common.2.66.0.nupkg.sha512",
+    "/Users/wellitontoledo/.nuget/packages/grpc.tools/2.67.0/grpc.tools.2.67.0.nupkg.sha512",
+    "/Users/wellitontoledo/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
